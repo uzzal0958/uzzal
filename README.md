@@ -1,0 +1,2 @@
+# uzzal
+VPN unlimited
